@@ -1,3 +1,4 @@
 node_modules/
 .vscode/
 pm2.config.js
+.DS_Store
